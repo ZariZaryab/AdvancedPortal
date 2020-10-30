@@ -1,11 +1,10 @@
 # AdvancedPortal
 
-> Discord BOT Help Menu 
-
 AdvancedPortal is simple menu which rotates pages and without creating any spam,
 turns it into short page.
 
-> Usefull for managing / categorizing various help commands in discord js.
+> Discord BOT Help Menu 
+> Useful for managing / categorizing various help commands in discord js.
 
 # CODE:
 
