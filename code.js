@@ -36,7 +36,7 @@ var page2 = new Discord.MessageEmbed()
 // PAGE 4
    var page4 = new Discord.MessageEmbed()
      .setTitle("**TITLE HERE**")
-     .setDescription('DESCRIPTION HERE')
+     .setDescription('DESCRIPTION HERE ')
      .addField('NAME HERE','VALUE HERE')
      .addField("NAME HERE","VALUE HERE")
      .setFooter(`AdvancedPortal | Help Commands will rotate at interval of ${totaltime} Seconds`)
