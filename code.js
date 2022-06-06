@@ -1,6 +1,6 @@
 
 const Discord = require('discord.js')
-var totalpages = "4"  // Tptal Number of pages (embeds)
+var totalpages = "4"  // Total Number of pages (embeds)
 var  embedsCOLOR = "#FF1493"  // Replace with desired embed color
 var totaltime = '5' // DO NOT CHANGE , to configure replace "5000" in  | }, 5000);|  with your interval in miliseconds.
 
